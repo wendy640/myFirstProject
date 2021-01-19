@@ -1,0 +1,62 @@
+body{
+  line-height: 25px; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px; 
+}
+.first{
+    background-color:white;
+    padding: 5px 15px;
+    border-radius: 5px 5px 0 0;
+}
+.first h3{
+   color: #24ac9af3 ;
+}
+.first h4{
+    color:#cfe603 ;
+    line-height: normal;
+ }
+ .first p{
+     color: #797979;
+ }
+ .second{
+     background-color:#24ac9af3;
+     padding: 5px 15px;
+     color: honeydew;
+ }
+ .second button{
+    height: 35px;
+    width: 220px;
+    margin: 15px 20px 20px 0 ;
+    background-color:#cfe603 ;
+    color: honeydew;
+    border-radius: 5px;
+  border: none;
+ 
+ }
+.money{
+    font-size: x-large;
+    
+}
+.money span{
+    font-size: 12px;
+    color: rgb(207, 207, 207);
+    float: right;
+    text-align: center;
+    margin: 0 135px 0 10px;
+}
+.second p{
+    margin:0 
+}
+.third{
+    background-color:#13cab2 ;
+    padding: 5px 15px;
+    border-radius: 0 0 5px 5px;
+    color:honeydew;
+}
+li {
+list-style-type: none;
+margin: -5px -40px;
+color:#cbdacb;
+}
+
+
